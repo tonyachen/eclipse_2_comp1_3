@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="6470aae4-b422-41da-8a79-e8a078463ab9" name="UserAdministration" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="6470aae4-b422-41da-8a79-e8a078463ab9fileName">UserAdministration</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
