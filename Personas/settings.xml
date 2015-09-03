@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="9b63dfd3-6b4e-4d4e-af37-d070b8c81c1f" name="Personas" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="9b63dfd3-6b4e-4d4e-af37-d070b8c81c1ffileName">Personas</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
